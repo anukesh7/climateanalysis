@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Anukesh Blog!"
 date:   2020-08-19 22:43:46 +0530
 categories: jekyll update
 ---
