@@ -30,6 +30,14 @@ url: "https://anukesh7.github.io" # the base hostname & protocol for your site, 
 twitter_username: anukeshkaiitgn
 github_username:  anukesh7
 
+author: Anukesh Krishnankutty Ambika
+
+
+#################copy right symbol
+
+copyright: Climate Analysis LLC
+
+googlescholar_username: Scholar
 # Build settings
 #theme: minima
 plugins:
